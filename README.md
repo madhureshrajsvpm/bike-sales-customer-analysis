@@ -67,7 +67,8 @@ Bike purchase decisions are driven more by **lifestyle and commute patterns** ra
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1398" height="703" alt="dashboard" src="https://github.com/user-attachments/assets/b10dac90-9a81-4919-9531-3645cd4024ca" />
+
 
 ---
 
